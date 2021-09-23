@@ -1,4 +1,4 @@
-# DOF Exam 2021.09.18
+# DOF Exam 2021.09.25
 Exam Repository for DevOps Fundamentals course (2021.07) @ SoftUni
 
 A set of two containerized applications. Each of them is object of a particular part of the exam.
