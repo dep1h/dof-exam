@@ -4,4 +4,4 @@ RUN apt-get update
 RUN pear channel-discover pear.nrk.io
 RUN pear install nrk/Predis
 
-COPY app/ /var/www/html
+COPY app2/web/app /var/www/html
